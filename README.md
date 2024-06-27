@@ -55,14 +55,14 @@ REQUIRED SECTIONS:
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://pnpm.io/">pnpm</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://nextjs.org/">Nextjs.org</a></li>
   </ul>
 </details>
 
@@ -109,7 +109,7 @@ In order to run this project you need:
 
 
 ```sh
- pnpm install
+npm install -g pnpm
 ```
 
 ### Setup
@@ -126,7 +126,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
- pnpm
+ pnpm install
 ```
 
 ### Usage
