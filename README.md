@@ -135,7 +135,7 @@ To run the project, execute the following command:
 
 
 ```sh
-  pnpm run dev
+  pnpm  dev
 ```
 
 
