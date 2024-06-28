@@ -91,7 +91,7 @@ REQUIRED SECTIONS:
 
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo](https://nextjs-dashboard-gamma-olive.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
