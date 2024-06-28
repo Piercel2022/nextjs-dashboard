@@ -89,8 +89,6 @@ REQUIRED SECTIONS:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
-
 - [Live Demo](https://nextjs-dashboard-gamma-olive.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
