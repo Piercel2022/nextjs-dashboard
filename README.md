@@ -143,7 +143,7 @@ To run tests, run the following command:
 
 
 ```sh
- no tests for the now(to complete)
+ 
 ```
 
 
@@ -152,7 +152,7 @@ To run tests, run the following command:
 You can deploy this project using:
 
 ```sh
- the link of the project coming soon
+ 
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
