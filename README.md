@@ -40,11 +40,11 @@ REQUIRED SECTIONS:
 - [📝 License](#license)
 
 
-# 📖 [nextjs-dashboard] <a name="about-project"></a>
+# 📖 nextjs-dashboard <a name="about-project"></a>
 
 
 
-**[nextjs-dashboard]** is a...
+**nextjs-dashboard** is a simplified version of the financial dashboard that has: A public home page. A login page.Dashboard pages that are protected by authentication.The ability for users to add, edit, and delete invoices.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -79,9 +79,9 @@ REQUIRED SECTIONS:
 
 
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **A public home page**
+- **A login page**
+- **Dashboard pages that are protected by authentication**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,9 +172,9 @@ You can deploy this project using:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **The ability for users to add invoices**
+- [ ] **The ability for users to edit invoices**
+- [ ] **The ability for users to delete invoices**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
