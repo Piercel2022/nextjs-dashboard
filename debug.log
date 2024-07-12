@@ -15,3 +15,4 @@
 [0708/221121.647:ERROR:registration_protocol_win.cc(108)] CreateFile: Le fichier spécifié est introuvable. (0x2)
 [0708/221156.027:ERROR:registration_protocol_win.cc(108)] CreateFile: Le fichier spécifié est introuvable. (0x2)
 [0708/221534.703:ERROR:registration_protocol_win.cc(108)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[0711/125650.533:ERROR:crashpad_client_win.cc(188)] crash server did not respond, self-terminating
